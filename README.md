@@ -1,0 +1,2 @@
+# VirtualMachineScaleset
+VirtualMachineScaleset
